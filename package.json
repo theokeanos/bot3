@@ -1,0 +1,22 @@
+{
+  "name": "serendia-squad",
+  "version": "0.0.1",
+  "description": "okeanos Squad'tan Alosha tarafından yapılan bot.",
+  "main": "okeanos.js",
+  "scripts": {
+    "start": "node okeanos.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "okeanos",
+    "star",
+    "vikings",
+    "hell"
+  ]
+}
